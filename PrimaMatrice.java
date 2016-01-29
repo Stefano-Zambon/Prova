@@ -168,7 +168,7 @@ for(int i=0; i<aRray.length; i++){
 		if(ris ==somma)
 			System.out.println(aRray[i]+"\t"+aRray[j] );
 	}
-	
+	// Che bello il mondo!!!
 }
 } 
 }
